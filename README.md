@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victoriabcher
 - 👀 I’m interested in data, books and technologie.
-- 🌱 I’m currently learning front-end development languages, such as html, css e javascript.
+- 🌱 I’m currently learning front-end development languages, such as html, css and javascript.
 
 
 <!---
