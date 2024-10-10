@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victoriabcher
-- 👀 I’m interested in data, books and technologie.
+- 👀 I’m interested in data, books and technology.
 - 🌱 I’m currently learning front-end development languages, such as html, css and javascript.
 
 
